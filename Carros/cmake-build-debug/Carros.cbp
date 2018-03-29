@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Carros"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Carros">
+				<Option output="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Carros" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 Carros"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Carros/fast">
+				<Option output="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Carros" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 Carros/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/djalmacunha/Desktop/paradas\ de\ algoritmo/Trabalhos\ Fei/Trabalhos-FEI-C-/Carros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.cpp">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.cpp">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.cpp">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.cpp">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.cpp">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/main.cpp">
+			<Option target="Carros"/>
+		</Unit>
+		<Unit filename="/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

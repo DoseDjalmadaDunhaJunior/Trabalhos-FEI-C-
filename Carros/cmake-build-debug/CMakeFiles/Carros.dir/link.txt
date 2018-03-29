@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Carros.dir/main.cpp.o CMakeFiles/Carros.dir/Veiculo.cpp.o CMakeFiles/Carros.dir/Carro.cpp.o CMakeFiles/Carros.dir/Caminhao.cpp.o CMakeFiles/Carros.dir/Moto.cpp.o CMakeFiles/Carros.dir/Mundo.cpp.o  -o Carros 
