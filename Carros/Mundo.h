@@ -5,16 +5,14 @@
 #ifndef CARROS_MUNDO_H
 #define CARROS_MUNDO_H
 #include <iostream>
-#include "Moto.h"
-#include "Caminhao.h"
-#include "Carro.h"
-#include "Veiculo.h"
 using namespace std;
 
 class Mundo {
 public:
     void texto();
     int geraMundo();
+    int getMundo(int,int);
+    void setMundo(int,int,int);
 private:
     int mapa[30][60] = {{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
                         {1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1},

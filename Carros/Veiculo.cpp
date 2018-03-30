@@ -44,3 +44,10 @@ int Veiculo::getPosicaoX() {
 int Veiculo::getPosicaoY() {
     return posy;
 }
+
+void Veiculo::alteraMapa() {
+    int num = getMundo(posx,posy);
+    if((num == 0) && (velocidade == 3)){
+        setMundo(posx,posy,7);
+    }
+}

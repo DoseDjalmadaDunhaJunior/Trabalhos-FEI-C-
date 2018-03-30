@@ -73,3 +73,11 @@ int Mundo::geraMundo() {
         puts("");
     }
 }
+
+int Mundo::getMundo(int x,int y) {
+    return mapa[x][y];
+}
+
+void Mundo::setMundo(int x, int y, int num) {
+
+}

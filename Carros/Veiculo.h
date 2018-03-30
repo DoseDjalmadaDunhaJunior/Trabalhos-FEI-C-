@@ -5,15 +5,16 @@
 #ifndef CARROS_VEICULO_H
 #define CARROS_VEICULO_H
 #include <iostream>
-
+#include "Mundo.h"
 using namespace std;
 
-class Veiculo {
+class Veiculo : public Mundo{
 public:
     void move();
     int aleatorio();
     void setVelocidade(int);
     void setPosicao(int,int);
+    void alteraMapa();
     int getPosicaoY();
     int getPosicaoX();
 private:
