@@ -16,9 +16,12 @@ public:
     void move();
     int aleatorio();
     void setVelocidade(int);
+    void setPosicao(int,int);
+    int getPosicaoY();
+    int getPosicaoX();
 private:
-    int y;
-    int x;
+    int posy;
+    int posx;
     int velocidade;
     bool fabrica;
     string cor;

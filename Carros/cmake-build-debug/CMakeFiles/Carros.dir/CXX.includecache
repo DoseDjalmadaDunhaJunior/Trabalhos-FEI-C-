@@ -9,86 +9,36 @@
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.cpp
 Caminhao.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
-Mundo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Moto.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
-Carro.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
-Veiculo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
 iostream
 -
-Mundo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Moto.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
-Carro.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
 Veiculo.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.cpp
 Carro.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
-Mundo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Moto.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
-Caminhao.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
-Veiculo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
 iostream
 -
-Mundo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Moto.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
-Caminhao.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
 Veiculo.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.cpp
 Moto.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
-Mundo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Caminhao.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
-Carro.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
-Veiculo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
 iostream
 -
-Mundo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Caminhao.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
-Carro.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
 Veiculo.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.cpp
 Mundo.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Moto.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
-Caminhao.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
-Carro.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
-Veiculo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
 iostream
@@ -105,14 +55,6 @@ Veiculo.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.cpp
 Veiculo.h
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
-Mundo.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
-Moto.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
-Caminhao.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
-Carro.h
-/Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
 
 /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 iostream

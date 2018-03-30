@@ -3,10 +3,7 @@
 //
 
 #include "Mundo.h"
-#include "Moto.h"
-#include "Caminhao.h"
-#include "Carro.h"
-#include "Veiculo.h"
+
 /*
 int Mundo::desenhaMundo() {
     int mapa[x][y] = {{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},

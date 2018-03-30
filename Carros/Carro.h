@@ -5,16 +5,13 @@
 #ifndef CARROS_CARRO_H
 #define CARROS_CARRO_H
 #include <iostream>
-using namespace std;
-#include "Mundo.h"
-#include "Moto.h"
-#include "Caminhao.h"
 #include "Veiculo.h"
+using namespace std;
 
-class Carro {
+class Carro : public Veiculo{
 public:
     Carro();
-
+    Carro(int,int);
 private:
     int lugares;
 };

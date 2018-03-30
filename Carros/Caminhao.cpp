@@ -3,7 +3,12 @@
 //
 
 #include "Caminhao.h"
-#include "Mundo.h"
-#include "Moto.h"
-#include "Carro.h"
-#include "Veiculo.h"
+
+Caminhao::Caminhao() {
+    setPosicao(-1,-1);
+}
+
+Caminhao::Caminhao(int x, int y) {
+    setVelocidade(1);
+}
+

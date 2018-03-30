@@ -3,10 +3,7 @@
 //
 
 #include "Veiculo.h"
-#include "Mundo.h"
-#include "Moto.h"
-#include "Caminhao.h"
-#include "Carro.h"
+
 
 int Veiculo::aleatorio() {
     srand(time(NULL));
@@ -16,19 +13,34 @@ int Veiculo::aleatorio() {
 void Veiculo::move() {
 int aux = Veiculo::aleatorio();
     if(aux < 25){
-        x = x - velocidade;
+        posx = posx - velocidade;
     }
     else if(aux >= 25 && aux < 50){
-        y = y - velocidade;
+        posy = posy - velocidade;
     }
     else if(aux >= 50 && aux < 75){
-        x = x + velocidade;
+        posx = posx + velocidade;
     }
     else{
-        y = y + velocidade;
+        posy = posy + velocidade;
     }
 }
 //para salvar a velocidade de cada veiculo
 void Veiculo::setVelocidade(int uno) {
     velocidade = uno;
+}
+
+void Veiculo::setPosicao(int X, int Y) {
+    if (X == -1 && Y == -1) {
+        posx = Veiculo::aleatorio();
+        posy = Veiculo::aleatorio();
+    }
+}
+
+int Veiculo::getPosicaoX() {
+    return posx;
+}
+
+int Veiculo::getPosicaoY() {
+    return posy;
 }
