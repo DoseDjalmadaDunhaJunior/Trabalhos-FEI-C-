@@ -7,3 +7,7 @@
 #include "Moto.h"
 #include "Caminhao.h"
 #include "Veiculo.h"
+
+Carro::Carro() {
+    
+}

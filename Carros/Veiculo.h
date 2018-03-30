@@ -14,7 +14,8 @@ using namespace std;
 class Veiculo {
 public:
     void move();
-
+    int aleatorio();
+    void setVelocidade(int);
 private:
     int y;
     int x;

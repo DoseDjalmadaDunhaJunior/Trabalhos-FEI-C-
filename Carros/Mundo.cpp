@@ -42,19 +42,36 @@ int Mundo::desenhaMundo() {
     };
 }
 */
+//para unicamente desenhar o mundo
 int Mundo::geraMundo() {
     for (int i = 0; i < x; i++) {
         for (int j = 0; j < y; j++) {
+            //borda
             if(mapa[i][j] == 1){
                 cout<<"ø";
                 continue;
             }
+            //espaco em branco
             if(mapa[i][j] == 0){
                 cout<<" ";
             }
+            //fabricas
             if(mapa[i][j] == 2){
                 cout<<"X";
             }
+            //caminhoes
+            if(mapa[i][j] == 9){
+                cout<<"HHD";
+            }
+            //carros
+            if(mapa[i][j] == 8){
+                cout<<"EH";
+            }
+            //motos
+            if(mapa[i][j] == 7){
+                cout<<"III";
+            }
+
         }
         puts("");
     }
