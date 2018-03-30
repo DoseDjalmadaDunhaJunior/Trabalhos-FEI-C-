@@ -3,23 +3,14 @@
 
 CMakeFiles/Carros.dir/Caminhao.cpp.o: ../Caminhao.cpp
 CMakeFiles/Carros.dir/Caminhao.cpp.o: ../Caminhao.h
-CMakeFiles/Carros.dir/Caminhao.cpp.o: ../Carro.h
-CMakeFiles/Carros.dir/Caminhao.cpp.o: ../Moto.h
-CMakeFiles/Carros.dir/Caminhao.cpp.o: ../Mundo.h
 CMakeFiles/Carros.dir/Caminhao.cpp.o: ../Veiculo.h
 
-CMakeFiles/Carros.dir/Carro.cpp.o: ../Caminhao.h
 CMakeFiles/Carros.dir/Carro.cpp.o: ../Carro.cpp
 CMakeFiles/Carros.dir/Carro.cpp.o: ../Carro.h
-CMakeFiles/Carros.dir/Carro.cpp.o: ../Moto.h
-CMakeFiles/Carros.dir/Carro.cpp.o: ../Mundo.h
 CMakeFiles/Carros.dir/Carro.cpp.o: ../Veiculo.h
 
-CMakeFiles/Carros.dir/Moto.cpp.o: ../Caminhao.h
-CMakeFiles/Carros.dir/Moto.cpp.o: ../Carro.h
 CMakeFiles/Carros.dir/Moto.cpp.o: ../Moto.cpp
 CMakeFiles/Carros.dir/Moto.cpp.o: ../Moto.h
-CMakeFiles/Carros.dir/Moto.cpp.o: ../Mundo.h
 CMakeFiles/Carros.dir/Moto.cpp.o: ../Veiculo.h
 
 CMakeFiles/Carros.dir/Mundo.cpp.o: ../Caminhao.h
@@ -29,10 +20,6 @@ CMakeFiles/Carros.dir/Mundo.cpp.o: ../Mundo.cpp
 CMakeFiles/Carros.dir/Mundo.cpp.o: ../Mundo.h
 CMakeFiles/Carros.dir/Mundo.cpp.o: ../Veiculo.h
 
-CMakeFiles/Carros.dir/Veiculo.cpp.o: ../Caminhao.h
-CMakeFiles/Carros.dir/Veiculo.cpp.o: ../Carro.h
-CMakeFiles/Carros.dir/Veiculo.cpp.o: ../Moto.h
-CMakeFiles/Carros.dir/Veiculo.cpp.o: ../Mundo.h
 CMakeFiles/Carros.dir/Veiculo.cpp.o: ../Veiculo.cpp
 CMakeFiles/Carros.dir/Veiculo.cpp.o: ../Veiculo.h
 

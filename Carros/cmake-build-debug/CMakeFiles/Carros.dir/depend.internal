@@ -4,23 +4,14 @@
 CMakeFiles/Carros.dir/Caminhao.cpp.o
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.cpp
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 CMakeFiles/Carros.dir/Carro.cpp.o
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.cpp
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 CMakeFiles/Carros.dir/Moto.cpp.o
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.cpp
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 CMakeFiles/Carros.dir/Mundo.cpp.o
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
@@ -30,10 +21,6 @@ CMakeFiles/Carros.dir/Mundo.cpp.o
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 CMakeFiles/Carros.dir/Veiculo.cpp.o
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Caminhao.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Carro.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Moto.h
- /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Mundo.h
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.cpp
  /Users/djalmacunha/Desktop/paradas de algoritmo/Trabalhos Fei/Trabalhos-FEI-C-/Carros/Veiculo.h
 CMakeFiles/Carros.dir/main.cpp.o

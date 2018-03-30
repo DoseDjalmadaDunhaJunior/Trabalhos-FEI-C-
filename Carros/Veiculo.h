@@ -5,10 +5,7 @@
 #ifndef CARROS_VEICULO_H
 #define CARROS_VEICULO_H
 #include <iostream>
-#include "Mundo.h"
-#include "Moto.h"
-#include "Caminhao.h"
-#include "Veiculo.h"
+
 using namespace std;
 
 class Veiculo {
