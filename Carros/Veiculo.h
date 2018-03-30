@@ -4,16 +4,17 @@
 
 #ifndef CARROS_VEICULO_H
 #define CARROS_VEICULO_H
-#include <string>
-#include "Carro.h"
-#include "Caminhao.h"
-#include "Moto.h"
-#include "Veiculo.h"
+#include <iostream>
 #include "Mundo.h"
-#include <string>
-
+#include "Moto.h"
+#include "Caminhao.h"
+#include "Veiculo.h"
 using namespace std;
+
 class Veiculo {
+public:
+    void move();
+
 private:
     int y;
     int x;

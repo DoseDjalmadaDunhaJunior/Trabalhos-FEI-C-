@@ -4,22 +4,20 @@
 
 #ifndef CARROS_MUNDO_H
 #define CARROS_MUNDO_H
-
-#include <string>
-#include "Carro.h"
-#include "Caminhao.h"
+#include <iostream>
 #include "Moto.h"
+#include "Caminhao.h"
+#include "Carro.h"
 #include "Veiculo.h"
 using namespace std;
+
 class Mundo {
 public:
-    void desenhaMundo(string,string,string);
-    //[30][60]
-    int mapa;
-
+    void desenhaMundo();
 private:
-    int tamX;
-    int tamY;
+    int mapa;
+    int x;
+    int y;
 };
 
 

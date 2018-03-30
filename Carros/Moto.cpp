@@ -3,3 +3,7 @@
 //
 
 #include "Moto.h"
+#include "Mundo.h"
+#include "Caminhao.h"
+#include "Carro.h"
+#include "Veiculo.h"

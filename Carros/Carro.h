@@ -4,18 +4,19 @@
 
 #ifndef CARROS_CARRO_H
 #define CARROS_CARRO_H
-#include <string>
-#include "Caminhao.h"
-#include "Moto.h"
-#include "Veiculo.h"
+#include <iostream>
+using namespace std;
 #include "Mundo.h"
+#include "Moto.h"
+#include "Caminhao.h"
+#include "Veiculo.h"
 
 class Carro {
 public:
     Carro();
 
 private:
-    int num_passageiros;
+    int lugares;
 };
 
 

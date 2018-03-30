@@ -4,14 +4,16 @@
 
 #ifndef CARROS_MOTO_H
 #define CARROS_MOTO_H
-#include <string>
-#include "Carro.h"
-#include "Caminhao.h"
-#include "Veiculo.h"
+#include <iostream>
 #include "Mundo.h"
+#include "Caminhao.h"
+#include "Carro.h"
+#include "Veiculo.h"
 using namespace std;
+
 class Moto {
-public: Moto();
+public:
+    Moto();
 private:
     string tipo;
 };
