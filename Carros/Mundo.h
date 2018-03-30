@@ -15,7 +15,7 @@ class Mundo {
 public:
     void desenhaMundo();
 private:
-    int mapa;
+    int mapa[][60];
     int x;
     int y;
 };
