@@ -10,6 +10,21 @@ Carro::Carro() {
 }
 
 Carro::Carro(int x, int y) {
-setVelocidade(2);
+    setPosicao(x,y);
 }
+
+void Carro::setTudo(int x, int y) {
+setVelocidade(2);
+    alteraMapa();
+
+}
+
+int Carro::getX() {
+    return getPosicaoX();
+}
+
+int Carro::getY() {
+    return getPosicaoY();
+}
+
 

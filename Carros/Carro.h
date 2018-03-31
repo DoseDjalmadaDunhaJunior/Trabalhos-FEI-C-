@@ -12,6 +12,9 @@ class Carro : public Veiculo{
 public:
     Carro();
     Carro(int,int);
+    void setTudo(int,int);
+    int getX();
+    int getY();
 private:
     int lugares;
 };

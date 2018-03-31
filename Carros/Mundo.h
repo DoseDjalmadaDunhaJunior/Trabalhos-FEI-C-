@@ -9,7 +9,6 @@ using namespace std;
 
 class Mundo {
 public:
-    void texto();
     int geraMundo();
     int getMundo(int,int);
     void setMundo(int,int,int);

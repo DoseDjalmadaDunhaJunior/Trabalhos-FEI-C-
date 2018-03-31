@@ -29,7 +29,7 @@ int aux = Veiculo::aleatorio();
 void Veiculo::setVelocidade(int uno) {
     velocidade = uno;
 }
-
+// para iniciar a posicao inicial de cada veiculo
 void Veiculo::setPosicao(int X, int Y) {
     if (X == -1 && Y == -1) {
         posx = Veiculo::aleatorio();
@@ -44,10 +44,16 @@ int Veiculo::getPosicaoX() {
 int Veiculo::getPosicaoY() {
     return posy;
 }
-
+//para aparecer no mapa cada veiculo
 void Veiculo::alteraMapa() {
     int num = getMundo(posx,posy);
-    if((num == 0) && (velocidade == 3)){
+    if((num == 0 || num == 2 || num == 1) && (velocidade == 3)){
         setMundo(posx,posy,7);
+    }
+    else if((num == 0 || num == 2 || num == 1) && (velocidade == 2)){
+        setMundo(posx,posy,8);
+    }
+    else if((num == 0 || num == 2 || num == 1) && (velocidade == 1)){
+        setMundo(posx,posy,9);
     }
 }

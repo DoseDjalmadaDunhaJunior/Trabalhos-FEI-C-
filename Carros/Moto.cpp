@@ -9,4 +9,5 @@ Moto::Moto() {
 
 Moto::Moto(int x, int y) {
     setVelocidade(3);
+    alteraMapa();
 }

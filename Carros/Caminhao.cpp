@@ -10,5 +10,6 @@ Caminhao::Caminhao() {
 
 Caminhao::Caminhao(int x, int y) {
     setVelocidade(1);
+    alteraMapa();
 }
 

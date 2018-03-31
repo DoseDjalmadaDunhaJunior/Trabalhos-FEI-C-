@@ -79,5 +79,5 @@ int Mundo::getMundo(int x,int y) {
 }
 
 void Mundo::setMundo(int x, int y, int num) {
-
+mapa[x][y] = num;
 }
